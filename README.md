@@ -1,6 +1,6 @@
 # Template for new register data repositories
 
-[Data](https://github.com/openregister/register-data-template/blob/master/data/national-portfolio-organisation/national-portfolio-organisation.tsv)
+[Data](https://github.com/openregister/national-portfolio-organisation/blob/master/data/national-portfolio-organisation/national-portfolio-organisation.tsv)
 for the national-portfolio-organisation register.
 
 A national portfolio organisation is one funded by the Arts Council of England
